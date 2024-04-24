@@ -4,17 +4,17 @@ Welcome to the "react-blog-app-with-RESTAPI" repository! This project houses a m
 
 # Key Features:
 
-# React-Powered Interface:
+## React-Powered Interface:
 Enjoy a sleek and responsive user interface crafted with React, ensuring smooth navigation and engaging user experiences across devices.
 ## RESTful API Integration:
 Seamlessly interact with a RESTful API backend to handle data management, including fetching existing posts, adding new posts, and deleting unwanted posts.
-# User-Friendly Blogging:
+## User-Friendly Blogging:
 Easily create and publish blog posts with a simple yet comprehensive form, allowing you to input post titles, content, reactions, and tags.
-# Efficient Post Management: 
+## Efficient Post Management: 
 Efficiently manage your blog posts with features like post deletion, ensuring your blog stays organized and clutter-free.
-# Dynamic Routing:
+## Dynamic Routing:
 Navigate through the application effortlessly thanks to dynamic routing implemented with React Router DOM, providing a seamless browsing experience.
-# Bootstrap Styling: 
+## Bootstrap Styling: 
 Benefit from Bootstrap's sleek and responsive styling, enhancing the visual appeal and usability of the blog application.
 
 # How to Use:
