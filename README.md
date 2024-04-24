@@ -18,12 +18,13 @@ Navigate through the application effortlessly thanks to dynamic routing implemen
 Benefit from Bootstrap's sleek and responsive styling, enhancing the visual appeal and usability of the blog application.
 
 # How to Use:
-Clone the repository to your local machine.
-Install dependencies using npm or yarn.
-Start the development server to launch the blog application.
-Interact with the intuitive user interface to create, manage, and publish your blog posts.
-Explore the seamless integration with the RESTful API for efficient data management.
-Contributions:
+## 1.Clone the repository to your local machine.
+## 2.Install dependencies using npm or yarn.
+## 3.Start the development server to launch the blog application.
+## 4.Interact with the intuitive user interface to create, manage, and publish your blog posts.
+## 5.Explore the seamless integration with the RESTful API for efficient data management.
+
+# Contributions:
 Contributions are welcome! Whether you're fixing bugs, implementing new features, or enhancing existing functionalities, feel free to fork the repository, make your changes, and submit a pull request.
 
 # License:
